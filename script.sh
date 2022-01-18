@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "kak dela vasb"
+echo "kak dela vasb axaxaxaxax"
 ls -l
