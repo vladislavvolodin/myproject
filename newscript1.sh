@@ -1,1 +1,1 @@
-pwd; ls -l
+echo "ura vse poluchilos" 
