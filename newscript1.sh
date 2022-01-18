@@ -1,1 +1,1 @@
-pws; ls-l
+pwd; ls -l
